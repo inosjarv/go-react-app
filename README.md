@@ -5,6 +5,6 @@ This app serves UI using golang's native server
 
 ### Run Locally
 ``` sh
-cd client && npm run buil && cd ..
+cd client && npm ci && npm run build && cd ..
 go run main.go
 ```
